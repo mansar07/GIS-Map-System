@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "username": "duckmanservos",
+      "password": ["p","a", "s", "s", "w", "o", "r", "d"]
+    },
+    {
+      "username": "mansar33",
+      "password": ["p","a", "s", "s", "w", "o", "r", "d"]
+    },
+    {
+      "username": "abao5",
+      "password": ["p","a", "s", "s", "w", "o", "r", "d"]
+    },
+    {
+      "username": "saad",
+      "password": ["1"]
+    },
+    {
+      "username": "pmoore44",
+      "password": ["p","a", "s", "s", "w", "o", "r", "d"]
+    },
+    {
+      "username": "imandlau",
+      "password": ["p","a", "s", "s", "w", "o", "r", "d"]
+    }
+  ]
+}
