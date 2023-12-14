@@ -1,5 +1,7 @@
 # GIS-Map-System
 
+- University Map system I made in a collaborative project that guides through the inner buildings and helps navigate across campus looking for rooms and other points of interests
+
 Description:
     CUAMPES-ACGISANT will assist users in navigating campus indoors and outdoors by providing the features of a conventional PDF map.
     The project will add additional features that make navigation simpler, such as search. Additionally, it will integrate
